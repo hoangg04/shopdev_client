@@ -16,7 +16,7 @@
     "formik": "^2.4.6",
     "framer-motion": "^11.4.0",
     "jose": "^5.8.0",
-    "next": "14.2.7",
+    "next": "14.2.10",
     "popmotion": "^11.0.5",
     "react": "^18",
     "react-dom": "^18",
